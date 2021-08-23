@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#readme">
-        <img alt="Microsoft Azure" width="50%" src="../img/azure_logo.png">
+        <img alt="Microsoft Azure" width="50%" src="img/azure_logo.png">
     </a>
 </p>
 
@@ -16,7 +16,7 @@ This folder just gathering some example uses case of Microsoft Azure AI + Machin
 
 
 
-### [Natural Language Processing (NLP)] (NLP_Azure_services)
+### [Natural Language Processing (NLP)](NLP_Azure_services)
 Azure ML offering many services to provide natural language processing (NLP) capabilities such as sentiment analysis, topic detection, language detection, key phrase extraction, and document categorization.
 
 <details><summary>Services list</summary>

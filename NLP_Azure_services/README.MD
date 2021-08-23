@@ -15,7 +15,7 @@ To use these great services, only required to register an account in Azure servi
   * Create a language model with Language Understanding
 
 
-### [Analyze-text-with-the-Text-Analytics-service]
+### Analyze-text-with-the-Text-Analytics-service
 The Text Analytics service is a part of the Azure Cognitive Services offerings that can perform advanced natural language processing over raw text. Many of the services are given free tier for limited usage.
 
 <details><summary>Function list</summary>
